@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1677390126 source:y:\cs180\hackathon\main.cpp
+	"ruak.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1677390498 source:y:\cs180\hackathon\ruak.cpp
+	"ruak.h"
+	<iostream>
+	<string>
+
+1677387587 y:\cs180\hackathon\ruak.h
+	<bits/stdc++.h>
+
